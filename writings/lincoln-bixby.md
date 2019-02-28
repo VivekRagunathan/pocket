@@ -9,7 +9,9 @@ I feel how weak and fruitless must be any word of mine which should attempt to b
 I pray that our Heavenly Father may assuage the anguish of your bereavement, and leave you only the cherished memory of the loved and lost, and the solemn pride that must be yours to have laid so costly a sacrifice upon the altar of freedom.
 
 Yours, very sincerely and respectfully,
+
 A. Lincoln
+
 [Washington. 21 Nov 1864]
 
 ------------------------------------------------------------------------------------------------------------------------
