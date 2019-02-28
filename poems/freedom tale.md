@@ -1,5 +1,6 @@
 # The Freedom Tale
 
+```
 Thus did India fall
 To the powerful British call.
 
@@ -29,5 +30,6 @@ Settled the struggle - our freedom fight.
 
 August 15, 1947 was the day of the freedom
 After an year and two, we framed our Indian Kingdom.
+```
 
 **_- Vivek Ragunathan_**
