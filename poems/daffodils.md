@@ -1,6 +1,6 @@
 # Daffodils
 
-William Wordsworth
+**_William Wordsworth_**
 
 I wandered lonely as a Cloud
 That floats on high o'er Vales and Hills,
@@ -29,6 +29,7 @@ They flash upon that inward eye
 Which is the bliss of solitude,
 And then my heart with pleasure fills,
 And dances with the Daffodils.
- 
-NOTES:
+
+***
+
 Wordsworth's famous poem about daffodils was composed in 1804, two years after he saw the flowers walking by Ullswater on a stormy day with Dorothy. His inspiration for the poem came from an account written by Dorothy. In her journal entry for 15th April 1802 she describes how the daffodils "tossed and reeled and danced, and seemed as if they verily laughed with the wind, that blew upon them over the lake".Wordsworth published his poem, 'I wandered lonely as a Cloud' , in 1807. He later altered it, and his second version, published in 1815, is the one widely known today.
