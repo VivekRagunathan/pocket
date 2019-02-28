@@ -2,6 +2,8 @@
 
 _Abraham Lincoln's Letter to His Son's Teacher_
 
+
+```
 He will have to learn, I know,
 that all men are not just,
 all men are not true.
@@ -75,5 +77,6 @@ sublime faith in mankind.
 This is a big order,
 but see what you can do...
 He is such a fine fellow, my son !
+```
 
 **- Abraham Lincoln**
