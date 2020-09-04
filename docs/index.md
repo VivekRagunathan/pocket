@@ -7,9 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### List
 
 <ul>
-  {% for post in site.posts %}
+  {% for page in site.pages %}
     <li>
-      <a href="/github-pages-with-jekyll{{ post.url }}">{{ post.title }}</a>
+      <a href="/docs{{ page.url }}">{{ page.title }}</a>
     </li>
   {% endfor %}
 </ul>
