@@ -9,8 +9,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <!-- {{ content }} -->
 <ul class="myposts">
 {% for post in site.posts %}
-    <li><a href="pocket{{ post.url }}">{{ post.title}}</a>
-    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <li>
+        <a href="{{ post.url }}">{{ post.title}}</a>
+        <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
     </li>
 {% endfor %}
 </ul>
