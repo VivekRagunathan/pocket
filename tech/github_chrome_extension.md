@@ -22,4 +22,4 @@
 
 [**OctoLinker**](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp)
 
-[**GitHub User Scripts**](https://github.com/Mottie/GitHub-userscripts)
+[**GitHub User Scripts**](https://github.com/Mottie/GitHub-userscripts#installation)
