@@ -1,0 +1,21 @@
+-----
+title: Inspirational Quotes
+type: pages
+layout: page
+-----
+
+> Disobedience, in the eyes of anyone who has read history, is man's original virtue. It is through disobedience and rebellion that progress has been made - Oscar Wilde
+
+> Experience is not what happens to a man, it is what he does when something happens to him.
+ 
+> The capacity to learn is a gift; The ability to learn is a skill; The WILLINGNESS to learn is a choice. - Unknown
+ 
+> The highest reward for man's toil is not what he gets for it, but what he becomes by it. - John Ruskin
+ 
+> I became aware of my destiny: to belong to the critical minority as opposed to the unquestioning majority. - Sigmund Freud
+ 
+> The young man who has not wept is a savage, and the old man who will not laugh is a fool. - Confucius
+ 
+> If I told you, you would not know; you simply would have been told. Study it thoroughly and I will ask you. You will answer and then you will know. - Anonymous
+ 
+> Many men go fishing all of their lives without knowing that it is not fish they are after. - Henry David Thoreau
