@@ -1,6 +1,4 @@
-# Funny Quotes
-
-Borrowed for viewing from [Short Funny Quotes](http://www.short-funny-quotes.com/top_ten_quotes.html)
+# Funny Quotes[^1]
 
 **Bart, with $10,000, we'd be millionaires! We could buy all kinds of useful things like...love!**
 - Homer J Simpson.
@@ -43,3 +41,6 @@ Zsa Zsa Gabor
 
 **He's so optimistic he'd buy a burial suit with two pairs of pants.**
 - Chuck Tanner. 
+
+
+[^1]: _Borrowed for viewing from [Short Funny Quotes](http://www.short-funny-quotes.com/top_ten_quotes.html)_

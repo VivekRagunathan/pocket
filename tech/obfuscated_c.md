@@ -1,6 +1,6 @@
 # C Obfuscation Tricks
 
-_A primer on some C obfuscation tricks_ was originally [authored](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt) by [Colin Ian King](https://github.com/ColinIanKing)
+> _A primer on some C obfuscation tricks_ was originally [authored](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt) by [Colin Ian King](https://github.com/ColinIanKing)
 
 ## Abusing `typedef`
 
