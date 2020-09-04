@@ -4,14 +4,15 @@ You can use the [editor on GitHub](https://github.com/VivekRagunathan/pocket/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### List
+### Content
 
-<ul>
-  {% for page in site.pages %}
-    <li>
-      <a href="/docs{{ page.url }}">{{ page.title }}</a>
+{{ content }}
+<ul class="myposts">
+{% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title}}</a>
+    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
     </li>
-  {% endfor %}
+{% endfor %}
 </ul>
 
 ### Markdown
