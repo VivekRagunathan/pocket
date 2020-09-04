@@ -7,10 +7,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Content
 
 <!-- {{ content }} -->
-<ul class="mypages">
-{% for page in site.pages %}
-    <li><a href="{{ page.url }}">{{ page.title}}</a>
-    <span class="pageDate">{{ page.date | date: "%b %-d, %Y" }}</span>
+<ul class="myposts">
+{% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title}}</a>
+    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
     </li>
 {% endfor %}
 </ul>
