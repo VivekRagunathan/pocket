@@ -21,3 +21,5 @@
 [**Better Pull Request for GitHub**](https://chrome.google.com/webstore/detail/better-pull-request-for-g/nfhdjopbhlggibjlimhdbogflgmbiahc/related?hl=en)
 
 [**OctoLinker**](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp)
+
+[**GitHub User Scripts**](https://github.com/Mottie/GitHub-userscripts)
